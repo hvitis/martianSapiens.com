@@ -10,8 +10,7 @@
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/suits_at">Follow on Twitter</a>
-			<a href="https://github.com/suits-at/netlifycms-gridsome">GitHub</a>
+			<a href="//twitter.com/hvitis_">Follow on Twitter</a>
 		</p>
 
 	</div>
