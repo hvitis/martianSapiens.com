@@ -5,11 +5,8 @@ published: true
 tags:
   - Mars
 cover_image: ../../static/images/uploads/2020-03-14/how-to-colonize-mars-for-the-first-time.jpg
-description: >-
-  The ideological grounds for the game. Why developing a game seems like a good idea.
+description: The ideological grounds for the game. Why developing a game seems like a good idea.
 ---
-
-
 Hello [Martian Sapiens][30]! It will be about colonizing Mars. Below I wrote **the why**. In case you prefer to listen here you have the recording:
 
 <iframe src='https://www.youtalky.xyz/player/hf' title='YouTalky.com - Player' width='100%' style='border: 0;'></iframe>

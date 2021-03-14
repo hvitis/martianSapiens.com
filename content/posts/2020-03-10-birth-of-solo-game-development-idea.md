@@ -4,9 +4,8 @@ date: 2021-03-10T00:00:00.000Z
 published: true
 tags:
   - Mars
-cover_image: ../../static/images/uploads/mars-colonization.jpg
-description: >-
-  Merging different concepts.
+cover_image: ../../static/images/uploads/2021-03-10/mars-colonization.jpg
+description: Merging different concepts.
 ---
 ## It landed on Mars
 
@@ -18,8 +17,6 @@ Check out [how it all started][1].
 
 [1]: https://hvitis.dev/how-to-start-developing-a-game-like-stardew-valley-using-monogames-xna
 
-
-___
 
 _Tell me about your insights and leave a comment on [Reddit][101] or [Twitter][100]_
 
