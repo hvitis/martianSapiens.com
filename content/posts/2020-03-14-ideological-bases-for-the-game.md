@@ -4,9 +4,9 @@ date: 2021-03-14T00:00:00.000Z
 published: true
 tags:
   - Mars
-cover_image: ../../static/images/uploads/how-to-colonize-mars-for-the-first-time.png
+cover_image: ../../static/images/uploads/2020-03-14/how-to-colonize-mars-for-the-first-time.jpg
 description: >-
-  The ideological backbone of the game. Why developing a game seems like a the only idea.
+  The ideological grounds for the game. Why developing a game seems like a good idea.
 ---
 
 
