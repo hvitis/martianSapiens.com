@@ -1,19 +1,7 @@
-# Netlify CMS template for Gridsome
+# Martian Sapiens || Blog
 
-> A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content.
+Based on Netlify CMS template for Gridsome
 
-## Features
-- Beautiful and simple design.
-- Markdown for content.
-- Tags support.
-- Dark / Light toggle.
-- CSS variables, SCSS & BEM for styling.
-- 100, 100, 100, 100 score on Google Lighthouse.
-- Uses same front-matter fields as Dev.to.
-
-## Demo URL
-
-https://netlifycms-gridsome.suits.at/
 
 ## Deploy to Netlify
 
