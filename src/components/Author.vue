@@ -6,7 +6,7 @@
 		</h1>
 
 		<p class="author__intro">
-			Let's colonize together.
+			Let's colonize Mars together!
 		</p>
 
 		<p class="author__links">
