@@ -4,7 +4,7 @@ date: 2021-03-14T00:00:00.000Z
 published: true
 tags:
   - Mars
-cover_image: ../../static/images/uploads/mars-colonization.jpg
+cover_image: ../../static/images/uploads/how-to-colonize-mars-for-the-first-time.png
 description: >-
   The ideological backbone of the game. Why developing a game seems like a the only idea.
 ---
@@ -204,9 +204,10 @@ I invite all [Martian Sapiens][30], let's colonize Mars together!
 
 ---
 
-_Tell me about your insights and leave a comment - you are most welcome to see more posts of this type just go to [home page][100]_
+_Tell me about your insights and leave a comment on [Reddit][101] or [Twitter][100]_
 
-[100]: https://hvitis.dev
+[100]: https://twitter.com/hvitis_
+[101]: https://www.reddit.com/r/martianSapiens
 
 <!-- DOCS -->
 

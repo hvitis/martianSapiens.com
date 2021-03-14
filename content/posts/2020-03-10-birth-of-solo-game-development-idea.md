@@ -17,3 +17,11 @@ I was wondering about game development a long time. Since my childhood. I starte
 Check out [how it all started][1].
 
 [1]: https://hvitis.dev/how-to-start-developing-a-game-like-stardew-valley-using-monogames-xna
+
+
+___
+
+_Tell me about your insights and leave a comment on [Reddit][101] or [Twitter][100]_
+
+[100]: https://twitter.com/hvitis_
+[101]: https://www.reddit.com/r/martianSapiens
